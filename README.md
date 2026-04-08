@@ -1,6 +1,6 @@
 # 派大星的自我介绍
 
-<img src="https://i.imgur.com/J8k2Q9H.jpg" width="200" alt="派大星">
+<img src="a2404334a4fe8faba3848760dc57c80e.png" width="200" alt="派大星">
 
 大家好，我是**派大星**，我的身份是*海绵宝宝最好的朋友*。以下是我的自我介绍：
 
@@ -19,7 +19,7 @@
 3. ~~蟹老板~~
 
 ### 重要坐标
-住址：[比奇堡](https://zh.wikipedia.org/wiki/比奇堡)
+住址：[比奇堡](sslocal://flow/file_open?url=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2F%E6%AF%94%E5%A5%87%E5%A0%A1&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
 
 ### 日常作息表
 
